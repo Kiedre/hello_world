@@ -1,3 +1,3 @@
 # hello_world
-have a try
-Kiedre here, I am learning python and go
+have a try.
+Kiedre here, student from China. I am learning python and go
